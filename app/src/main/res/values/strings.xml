@@ -1,3 +1,15 @@
 <resources>
+    <!-- global strings -->
     <string name="app_name">Degree-Planning</string>
+
+    <!-- startup screen -->
+    <string name="startupText">TAP ANYWHERE TO BEGIN</string>
+
+    <!-- main menu -->
+
+    <!-- new plan -->
+
+    <!-- plan view -->
+
+
 </resources>
