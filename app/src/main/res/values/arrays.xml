@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="majorList">
+        <!-- add all of the majors to this list to show in the spinner -->
+        <item>Example Item 1</item>
+        <item>Example Item 2</item>
+    </string-array>
+</resources>

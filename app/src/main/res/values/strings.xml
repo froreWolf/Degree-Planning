@@ -2,14 +2,17 @@
     <!-- global strings -->
     <string name="app_name">Degree-Planning</string>
 
-    <!-- startup screen -->
-    <string name="startupText">TAP ANYWHERE TO BEGIN</string>
+    <!-- main -->
 
-    <!-- main menu -->
 
-    <!-- new plan -->
+    <!-- menu -->
+    <string name="menuInstructions">Select your Major</string>
+    <string name="menuButton">Show Degree Plan</string>
 
-    <!-- plan view -->
+    <!-- infoView -->
+
+
+    <!-- code -->
 
 
 </resources>
